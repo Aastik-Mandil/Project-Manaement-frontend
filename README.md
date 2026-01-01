@@ -6,7 +6,7 @@ This project is about managing different projects and their related tasks.
 
 ## Tech Stack
 
-**Client:** JavaScript, React.js, HTML5, CSS3
+**Client:** JavaScript, React.js, TypeScript, HTML5, CSS3
 
 
 ## Run Locally
