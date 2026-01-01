@@ -1,3 +1,42 @@
-1. To install the dependency - npm i
 
-2. To run te application - npm start
+# Project Management
+
+This project is about managing different projects and their related tasks.
+
+
+## Tech Stack
+
+**Client:** JavaScript, React.js, HTML5, CSS3
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/Aastik-Mandil/Project-Manaement-frontend.git
+```
+
+Go to the project directory
+
+```bash
+  cd Project-Manaement-frontend
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
+
+## Authors
+
+- [@Aastik-Mandil](https://www.github.com/Aastik-Mandil)
+
